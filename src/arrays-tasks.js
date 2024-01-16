@@ -343,7 +343,7 @@ function createChunks(arr, chunkSize) {
     return res;
   }, []);
 }
-console.log('createChunks', createChunks(['a', 'b', 'c', 'd', 'e'], 2));
+
 /**
  * Generates an array of odd numbers of the specified length.
  *
